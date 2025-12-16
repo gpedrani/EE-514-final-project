@@ -5,7 +5,7 @@ from qiskit import transpile
 from qiskit.transpiler import InstructionDurations, PassManager
 
 service = QiskitRuntimeService(
-    token = 'QjPLVURBC3hy6ySgd_bT_IOGAyvkXcajvAG3l5IMzR4t',
+    token = '',
     channel = 'ibm_quantum_platform',
     instance = 'EE514'
 )
